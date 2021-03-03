@@ -1,3 +1,3 @@
 # Algorithms
 
-Implementation of some algorithms =D!
+Implementation of some algorithms =)
